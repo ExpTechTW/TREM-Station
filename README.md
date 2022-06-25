@@ -1,9 +1,9 @@
-# TREM Pocket
+# TREM Station
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- Taiwan Real-time Earthquake Monitoring Pocket ( 台灣實時地震監測 行動版 )
+- Taiwan Real-time Earthquake Monitoring Station ( 台灣實時地震監測 即時測站 )
 
 ## 索引
 - [文檔](#文檔)
